@@ -101,6 +101,6 @@ function createImage( json ) {
     });
   }
   else {
-    alert('該当する映像がありません');
+
   }
 }
